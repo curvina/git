@@ -1,3 +1,3 @@
 <?php
 phpinfo();
-echo "teste5";
+echo "teste6";
