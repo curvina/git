@@ -1,3 +1,3 @@
 <?php
 phpinfo();
-echo "teste6";
+echo "branch master";
